@@ -1,0 +1,7 @@
+C:\Users\SENTURK\Desktop\yunus emre senturk proje\fatura\fatura\bin\Debug\fatura.exe.config
+C:\Users\SENTURK\Desktop\yunus emre senturk proje\fatura\fatura\bin\Debug\fatura.exe
+C:\Users\SENTURK\Desktop\yunus emre senturk proje\fatura\fatura\bin\Debug\fatura.pdb
+C:\Users\SENTURK\Desktop\yunus emre senturk proje\fatura\fatura\obj\Debug\fatura.csprojAssemblyReference.cache
+C:\Users\SENTURK\Desktop\yunus emre senturk proje\fatura\fatura\obj\Debug\fatura.csproj.CoreCompileInputs.cache
+C:\Users\SENTURK\Desktop\yunus emre senturk proje\fatura\fatura\obj\Debug\fatura.exe
+C:\Users\SENTURK\Desktop\yunus emre senturk proje\fatura\fatura\obj\Debug\fatura.pdb
